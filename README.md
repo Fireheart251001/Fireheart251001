@@ -2,7 +2,7 @@
 - You can call me Darius
 - I know Python and am currently learning C++
 - Linux enthusiast (I use Arch BTW) but preffer Windows because of software compatability
-- I like old software and enjoy testing malware in VM's
+- I like old software and enjoy testing malware in VMs
 - I like every sub-genre of metal
 
 <!---
